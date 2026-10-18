@@ -9,18 +9,18 @@ public class PlayerMovement : MonoBehaviour
 
     private void Awake()
     {
-        rb.GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    void Update()
+    private void Update()
     {
-        float horizontal = Input.GetAxisRaw("Horizontal");
+        horizontal = Input.GetAxisRaw("Horizontal");
 
     
     }
 
     private void FixedUpdate()
     {
-        
+        rb.linearVelocity = new Vector2(horizontal * moveSpeed, rb.linearVelocity.y);
     }
 }
