@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 08afa4e6355264012885fc0f72525465
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 522614847481974670
+    second: Worn Cyan-Eyed Robot Sprite_0
+  - first:
+      213: 1482066481715145632
+    second: Worn Cyan-Eyed Robot Sprite_1
+  - first:
+      213: -1751220376462704464
+    second: Worn Cyan-Eyed Robot Sprite_2
+  - first:
+      213: -5103631863669694049
+    second: Worn Cyan-Eyed Robot Sprite_3
+  - first:
+      213: -6243548363626676074
+    second: Worn Cyan-Eyed Robot Sprite_4
+  - first:
+      213: 3561560772889150269
+    second: Worn Cyan-Eyed Robot Sprite_5
+  - first:
+      213: -9027413381070112065
+    second: Worn Cyan-Eyed Robot Sprite_6
+  - first:
+      213: -7051487568923223768
+    second: Worn Cyan-Eyed Robot Sprite_7
+  - first:
+      213: 7976342316642752593
+    second: Worn Cyan-Eyed Robot Sprite_8
+  - first:
+      213: -8099714216751140702
+    second: Worn Cyan-Eyed Robot Sprite_9
+  - first:
+      213: 5214685128536976675
+    second: Worn Cyan-Eyed Robot Sprite_10
+  - first:
+      213: -8719340002504104538
+    second: Worn Cyan-Eyed Robot Sprite_11
+  - first:
+      213: 5158068881294175675
+    second: Worn Cyan-Eyed Robot Sprite_12
+  - first:
+      213: -3535705015756160009
+    second: Worn Cyan-Eyed Robot Sprite_13
+  - first:
+      213: 7886491743771179479
+    second: Worn Cyan-Eyed Robot Sprite_14
+  - first:
+      213: -5202241561758410135
+    second: Worn Cyan-Eyed Robot Sprite_15
+  - first:
+      213: 3698113701699696968
+    second: Worn Cyan-Eyed Robot Sprite_16
+  - first:
+      213: 644229030955186579
+    second: Worn Cyan-Eyed Robot Sprite_17
+  - first:
+      213: 5282588548649480252
+    second: Worn Cyan-Eyed Robot Sprite_18
+  - first:
+      213: 5105428744613213594
+    second: Worn Cyan-Eyed Robot Sprite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 520
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 1199
+        height: 1207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f02825f63b04700800000000000000
+      internalID: 522614847481974670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1074
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abe420ec9b519410800000000000000
+      internalID: 1482066481715145632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1063
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0c381985a62b7e0800000000000000
+      internalID: -1751220376462704464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1076
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916a953cd14c29b0800000000000000
+      internalID: -5103631863669694049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1062
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6908f00d7d57a59a0800000000000000
+      internalID: -6243548363626676074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 821
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33060a27a43d6130800000000000000
+      internalID: 3561560772889150269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 827
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba35b4fb5f28b280800000000000000
+      internalID: -9027413381070112065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 802
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8299f3c9a65142e90800000000000000
+      internalID: -7051487568923223768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 789
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15858669319a1be60800000000000000
+      internalID: 7976342316642752593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 630
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0fd5085d8089f80800000000000000
+      internalID: -8099714216751140702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 566
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d65fdee784e5840800000000000000
+      internalID: 5214685128536976675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 465
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a3eaf67eaef680800000000000000
+      internalID: -8719340002504104538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 423
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd2984a154259740800000000000000
+      internalID: 5158068881294175675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 341
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f389496507aeeec0800000000000000
+      internalID: -3535705015756160009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 279
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9388fd472727d60800000000000000
+      internalID: 7886491743771179479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 168
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96add9bbcdcedc7b0800000000000000
+      internalID: -5202241561758410135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 136
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b0d871d6525330800000000000000
+      internalID: 3698113701699696968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 134
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399f310f3e2c0f800800000000000000
+      internalID: 644229030955186579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 130
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c307cc0fb468f4940800000000000000
+      internalID: 5282588548649480252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Cyan-Eyed Robot Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 128
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a953dbcb4602ad640800000000000000
+      internalID: 5105428744613213594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Worn Cyan-Eyed Robot Sprite_0: 522614847481974670
+      Worn Cyan-Eyed Robot Sprite_1: 1482066481715145632
+      Worn Cyan-Eyed Robot Sprite_10: 5214685128536976675
+      Worn Cyan-Eyed Robot Sprite_11: -8719340002504104538
+      Worn Cyan-Eyed Robot Sprite_12: 5158068881294175675
+      Worn Cyan-Eyed Robot Sprite_13: -3535705015756160009
+      Worn Cyan-Eyed Robot Sprite_14: 7886491743771179479
+      Worn Cyan-Eyed Robot Sprite_15: -5202241561758410135
+      Worn Cyan-Eyed Robot Sprite_16: 3698113701699696968
+      Worn Cyan-Eyed Robot Sprite_17: 644229030955186579
+      Worn Cyan-Eyed Robot Sprite_18: 5282588548649480252
+      Worn Cyan-Eyed Robot Sprite_19: 5105428744613213594
+      Worn Cyan-Eyed Robot Sprite_2: -1751220376462704464
+      Worn Cyan-Eyed Robot Sprite_3: -5103631863669694049
+      Worn Cyan-Eyed Robot Sprite_4: -6243548363626676074
+      Worn Cyan-Eyed Robot Sprite_5: 3561560772889150269
+      Worn Cyan-Eyed Robot Sprite_6: -9027413381070112065
+      Worn Cyan-Eyed Robot Sprite_7: -7051487568923223768
+      Worn Cyan-Eyed Robot Sprite_8: 7976342316642752593
+      Worn Cyan-Eyed Robot Sprite_9: -8099714216751140702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
