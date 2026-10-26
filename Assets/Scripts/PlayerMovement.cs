@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using Unity.Mathematics;
 using UnityEditor.Callbacks;
 using UnityEngine;
 
@@ -31,13 +32,17 @@ public class PlayerMovement : MonoBehaviour
         horizontal = Input.GetAxisRaw("Horizontal");
         animator.SetBool("IsMoving", horizontal != 0);
         Debug.Log("Horizontal: " + horizontal);
+        Vector2 checkPosition = (Vector2)transform.position + Vector2.down * 0.5f;
+
         isGrounded = Physics2D.OverlapCircle(
-            groundCheck.position, 
+            checkPosition, 
             groundCheckRadius, 
             groundLayer);
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
+            transform.rotation = Quaternion.identity;
+            rb.angularVelocity = 0f;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
