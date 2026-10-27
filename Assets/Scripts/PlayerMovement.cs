@@ -43,6 +43,7 @@ public class PlayerMovement : MonoBehaviour
         {
             transform.rotation = Quaternion.identity;
             rb.angularVelocity = 0f;
+            animator.SetTrigger("Jump");
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 

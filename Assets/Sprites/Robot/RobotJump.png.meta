@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: d01376e2fa3f742d08325fa778d7e1d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4569894983274730576
+    second: Pixel Robot Jumping Sprite Sheet_0
+  - first:
+      213: -3310527232462778216
+    second: Pixel Robot Jumping Sprite Sheet_1
+  - first:
+      213: -6445790876874500188
+    second: Pixel Robot Jumping Sprite Sheet_2
+  - first:
+      213: -8991277503672830425
+    second: Pixel Robot Jumping Sprite Sheet_3
+  - first:
+      213: -2402313025704649414
+    second: Pixel Robot Jumping Sprite Sheet_4
+  - first:
+      213: -3215465029401431563
+    second: Pixel Robot Jumping Sprite Sheet_5
+  - first:
+      213: -6104694042375303927
+    second: Pixel Robot Jumping Sprite Sheet_6
+  - first:
+      213: -7891690299445380962
+    second: Pixel Robot Jumping Sprite Sheet_7
+  - first:
+      213: 7657658911902679409
+    second: Pixel Robot Jumping Sprite Sheet_8
+  - first:
+      213: -8882186070279766315
+    second: Pixel Robot Jumping Sprite Sheet_9
+  - first:
+      213: 8010676607487119406
+    second: Pixel Robot Jumping Sprite Sheet_10
+  - first:
+      213: -7027181697264442285
+    second: Pixel Robot Jumping Sprite Sheet_11
+  - first:
+      213: 6283208698786542212
+    second: Pixel Robot Jumping Sprite Sheet_12
+  - first:
+      213: 8501838702378977107
+    second: Pixel Robot Jumping Sprite Sheet_13
+  - first:
+      213: -4630699462375039992
+    second: Pixel Robot Jumping Sprite Sheet_14
+  - first:
+      213: -5501260027184073480
+    second: Pixel Robot Jumping Sprite Sheet_15
+  - first:
+      213: 4019301353825619146
+    second: Pixel Robot Jumping Sprite Sheet_16
+  - first:
+      213: 2222898669176386726
+    second: Pixel Robot Jumping Sprite Sheet_17
+  - first:
+      213: -7136884069559167729
+    second: Pixel Robot Jumping Sprite Sheet_18
+  - first:
+      213: 5899436327353595683
+    second: Pixel Robot Jumping Sprite Sheet_19
+  - first:
+      213: -8012017001436031222
+    second: Pixel Robot Jumping Sprite Sheet_20
+  - first:
+      213: -2708400120795928038
+    second: Pixel Robot Jumping Sprite Sheet_21
+  - first:
+      213: 2973305391964968810
+    second: Pixel Robot Jumping Sprite Sheet_22
+  - first:
+      213: 6545656264142076276
+    second: Pixel Robot Jumping Sprite Sheet_23
+  - first:
+      213: 3961531640873503911
+    second: Pixel Robot Jumping Sprite Sheet_24
+  - first:
+      213: -6790136184130342976
+    second: Pixel Robot Jumping Sprite Sheet_25
+  - first:
+      213: 4571493163907686957
+    second: Pixel Robot Jumping Sprite Sheet_26
+  - first:
+      213: -6948965598613123572
+    second: Pixel Robot Jumping Sprite Sheet_27
+  - first:
+      213: -3927044817365843135
+    second: Pixel Robot Jumping Sprite Sheet_28
+  - first:
+      213: 1097331158774452750
+    second: Pixel Robot Jumping Sprite Sheet_29
+  - first:
+      213: 8866873642418296475
+    second: Pixel Robot Jumping Sprite Sheet_30
+  - first:
+      213: 3859144841826982609
+    second: Pixel Robot Jumping Sprite Sheet_31
+  - first:
+      213: -4559812062453920288
+    second: Pixel Robot Jumping Sprite Sheet_32
+  - first:
+      213: 2531295209786759734
+    second: Pixel Robot Jumping Sprite Sheet_33
+  - first:
+      213: 5504520670477323123
+    second: Pixel Robot Jumping Sprite Sheet_34
+  - first:
+      213: -3840417992348094167
+    second: Pixel Robot Jumping Sprite Sheet_35
+  - first:
+      213: -5100133089714136877
+    second: Pixel Robot Jumping Sprite Sheet_36
+  - first:
+      213: 2699639217817527736
+    second: Pixel Robot Jumping Sprite Sheet_37
+  - first:
+      213: -6615303788945165657
+    second: Pixel Robot Jumping Sprite Sheet_38
+  - first:
+      213: -6228202844244695327
+    second: Pixel Robot Jumping Sprite Sheet_39
+  - first:
+      213: -7419390837202645730
+    second: Pixel Robot Jumping Sprite Sheet_40
+  - first:
+      213: -7082513054579348866
+    second: Pixel Robot Jumping Sprite Sheet_41
+  - first:
+      213: 2254676218981640746
+    second: Pixel Robot Jumping Sprite Sheet_42
+  - first:
+      213: 3286024546404135761
+    second: Pixel Robot Jumping Sprite Sheet_43
+  - first:
+      213: -8252004005828450455
+    second: Pixel Robot Jumping Sprite Sheet_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotJump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 495
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3371f4c6c5104101bd7c033d21594a2
+      internalID: 2011333975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotJump_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 495
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5698c6ceed74435c9218a5afc236b3d
+      internalID: -1881135797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotJump_2
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 495
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34629e404a18f4320b492d6f7101fd50
+      internalID: 1312926204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotJump_3
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 495
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768c361183fa144c1955d614311cb23d
+      internalID: 188705069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e426ec3a7d2104a01aef823173d6f5ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":495.0,"y":793.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      RobotJump_0: 2011333975
+      RobotJump_1: -1881135797
+      RobotJump_2: 1312926204
+      RobotJump_3: 188705069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
