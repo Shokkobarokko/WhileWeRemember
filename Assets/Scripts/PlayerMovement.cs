@@ -31,6 +31,7 @@ public class PlayerMovement : MonoBehaviour
     {
         horizontal = Input.GetAxisRaw("Horizontal");
         animator.SetBool("IsMoving", horizontal != 0);
+   
         Debug.Log("Horizontal: " + horizontal);
         Vector2 checkPosition = (Vector2)transform.position + Vector2.down * 0.5f;
 
@@ -38,6 +39,7 @@ public class PlayerMovement : MonoBehaviour
             checkPosition, 
             groundCheckRadius, 
             groundLayer);
+       
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {

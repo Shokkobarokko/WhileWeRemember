@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 39242772f4af3455493d04af29f7d6d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8004599980609963810
+    second: Pixel Robot Knockdown Sequence_0
+  - first:
+      213: 7678132742665509096
+    second: Pixel Robot Knockdown Sequence_1
+  - first:
+      213: -5949402489237712919
+    second: Pixel Robot Knockdown Sequence_2
+  - first:
+      213: -1782481463336918494
+    second: Pixel Robot Knockdown Sequence_3
+  - first:
+      213: 2779804222756104518
+    second: Pixel Robot Knockdown Sequence_4
+  - first:
+      213: 4108496597474768926
+    second: Pixel Robot Knockdown Sequence_5
+  - first:
+      213: 9045922242145120961
+    second: Pixel Robot Knockdown Sequence_6
+  - first:
+      213: -7961338009479542208
+    second: Pixel Robot Knockdown Sequence_7
+  - first:
+      213: 1096008969601844362
+    second: Pixel Robot Knockdown Sequence_8
+  - first:
+      213: -329492244853348100
+    second: Pixel Robot Knockdown Sequence_9
+  - first:
+      213: 2773686653310030179
+    second: Pixel Robot Knockdown Sequence_10
+  - first:
+      213: -1698427217072595865
+    second: Pixel Robot Knockdown Sequence_11
+  - first:
+      213: -4081778488496170972
+    second: Pixel Robot Knockdown Sequence_12
+  - first:
+      213: 172501690524447197
+    second: Pixel Robot Knockdown Sequence_13
+  - first:
+      213: -3187129655034995248
+    second: Pixel Robot Knockdown Sequence_14
+  - first:
+      213: 5158774232414837574
+    second: Pixel Robot Knockdown Sequence_15
+  - first:
+      213: 9198861360377951216
+    second: Pixel Robot Knockdown Sequence_16
+  - first:
+      213: 8479942190340779845
+    second: Pixel Robot Knockdown Sequence_17
+  - first:
+      213: 7506792375950482878
+    second: Pixel Robot Knockdown Sequence_18
+  - first:
+      213: 6859263575766102532
+    second: Pixel Robot Knockdown Sequence_19
+  - first:
+      213: -5788357599570148518
+    second: Pixel Robot Knockdown Sequence_20
+  - first:
+      213: -3699038656624224745
+    second: Pixel Robot Knockdown Sequence_21
+  - first:
+      213: -4475749904030298153
+    second: Pixel Robot Knockdown Sequence_22
+  - first:
+      213: -4617487660041949379
+    second: Pixel Robot Knockdown Sequence_23
+  - first:
+      213: -1770803143693346185
+    second: Pixel Robot Knockdown Sequence_24
+  - first:
+      213: -7699396341400162567
+    second: Pixel Robot Knockdown Sequence_25
+  - first:
+      213: -3381662217437447327
+    second: Pixel Robot Knockdown Sequence_26
+  - first:
+      213: -889560157645562227
+    second: Pixel Robot Knockdown Sequence_27
+  - first:
+      213: 3878569584053329486
+    second: Pixel Robot Knockdown Sequence_28
+  - first:
+      213: 6556320665538256941
+    second: Pixel Robot Knockdown Sequence_29
+  - first:
+      213: 614713469643681419
+    second: Pixel Robot Knockdown Sequence_30
+  - first:
+      213: 2788062442702471077
+    second: Pixel Robot Knockdown Sequence_31
+  - first:
+      213: 3667423174457213642
+    second: Pixel Robot Knockdown Sequence_32
+  - first:
+      213: -8367591544150723615
+    second: Pixel Robot Knockdown Sequence_33
+  - first:
+      213: 9054077367792773496
+    second: Pixel Robot Knockdown Sequence_34
+  - first:
+      213: 5185002626285678055
+    second: Pixel Robot Knockdown Sequence_35
+  - first:
+      213: -8441379960517181057
+    second: Pixel Robot Knockdown Sequence_36
+  - first:
+      213: 7875991318689507831
+    second: Pixel Robot Knockdown Sequence_37
+  - first:
+      213: 6614341014849527913
+    second: Pixel Robot Knockdown Sequence_38
+  - first:
+      213: -8107320750303658419
+    second: Pixel Robot Knockdown Sequence_39
+  - first:
+      213: -1656313884756425793
+    second: Pixel Robot Knockdown Sequence_40
+  - first:
+      213: -658831421539167575
+    second: Pixel Robot Knockdown Sequence_41
+  - first:
+      213: -5719594240770870975
+    second: Pixel Robot Knockdown Sequence_42
+  - first:
+      213: 1910663419230548357
+    second: Pixel Robot Knockdown Sequence_43
+  - first:
+      213: -6192040550714304125
+    second: Pixel Robot Knockdown Sequence_44
+  - first:
+      213: 2135373069225241219
+    second: Pixel Robot Knockdown Sequence_45
+  - first:
+      213: 5130314149809996477
+    second: Pixel Robot Knockdown Sequence_46
+  - first:
+      213: -1157697788034728835
+    second: Pixel Robot Knockdown Sequence_47
+  - first:
+      213: -4571682851899942801
+    second: Pixel Robot Knockdown Sequence_48
+  - first:
+      213: 1036631004408115398
+    second: Pixel Robot Knockdown Sequence_49
+  - first:
+      213: 6674121733394508006
+    second: Pixel Robot Knockdown Sequence_50
+  - first:
+      213: 7968806191191783482
+    second: Pixel Robot Knockdown Sequence_51
+  - first:
+      213: 3050722314356694827
+    second: Pixel Robot Knockdown Sequence_52
+  - first:
+      213: 6019642242347895179
+    second: Pixel Robot Knockdown Sequence_53
+  - first:
+      213: 1091368959435830967
+    second: Pixel Robot Knockdown Sequence_54
+  - first:
+      213: -2507957466074787979
+    second: Pixel Robot Knockdown Sequence_55
+  - first:
+      213: -119558916236507993
+    second: Pixel Robot Knockdown Sequence_56
+  - first:
+      213: -6296737220464568063
+    second: Pixel Robot Knockdown Sequence_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotFall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 495
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7026d0c918247759f6cf52c80b6f48
+      internalID: 148952355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotFall_1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 14
+        width: 432
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a198d31dd9d41289afe8f1c3eca9f1
+      internalID: 669718066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotFall_2
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 524
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9fc9bfe97e43d2a6e0595e69b5b7d
+      internalID: 2133706277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotFall_3
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 495
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40114e0501da14114b5e6dcfa7191db6
+      internalID: -540693094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b3e5e59cba5e64691b0f84d94bea9808
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":495.0,"y":793.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      RobotFall_0: 148952355
+      RobotFall_1: 669718066
+      RobotFall_2: 2133706277
+      RobotFall_3: -540693094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
